@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75345233c4bd6784a8146321c185960f, type: 3}
+  m_Name: Dialogo 1
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: Dialogo 1
+    characterPortrait: {fileID: 21300000, guid: ca7d725102988df4abbb7c14490c10b7, type: 3}
+    backGround: {fileID: 21300000, guid: d80263d580b018243bf1606e0c3cda54, type: 3}
+    characterLeft: {fileID: 21300000, guid: 46cda70b2a612284bbae46cb1f1c35c5, type: 3}
+    characterRight: {fileID: 21300000, guid: 3466c388e8b37ff4a93fb1d6ed79fa99, type: 3}
+    text: "Aqui apenas \xE9 um teste para voc\xEA ver que entrou no dialogo referente
+      ao caminho para o dialogo 1, agora s\xF3 estou escrevendo aleat\xF3riamente
+      para preencher o maximo possivel de texto e ver como fica a disposi\xE7\xE3o
+      do texto no espa\xE7o da caixa de dialogo, com o proposito de alinhar o tamanho
+      da fonte para varias configura\xE7\xF5es."
+    eventName: 
+    choices: []
+    useVerticalPanel: 0
